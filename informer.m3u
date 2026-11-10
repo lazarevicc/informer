@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Informer TV",Informer TV
+#EXTVLCOPT:http-referrer=https://informer.rs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://53be5ef2d13aa.streamlock.net/informertv-secure/uzivo/chunklist.m3u8
